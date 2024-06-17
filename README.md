@@ -1,3 +1,3 @@
 # 5thReversiGame.gitHub.io
 5th Game
-Context in website 
+Context in the  website 
